@@ -1,0 +1,354 @@
+{
+	"width": 24,
+	"height": 18,
+	"units": [
+		{
+			"name": "wall",
+			"x": 5,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 6,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 7,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 8,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 9,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 10,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 11,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 12,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 13,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 14,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 15,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 16,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 17,
+			"y": 12,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 5,
+			"y": 11,
+			"dir": 0
+		},
+		{
+			"name": "grass",
+			"x": 10,
+			"y": 11,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 17,
+			"y": 11,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 5,
+			"y": 10,
+			"dir": 0
+		},
+		{
+			"name": "text_baba",
+			"x": 7,
+			"y": 10,
+			"dir": 0
+		},
+		{
+			"name": "text_is",
+			"x": 8,
+			"y": 10,
+			"dir": 0
+		},
+		{
+			"name": "text_you",
+			"x": 9,
+			"y": 10,
+			"dir": 0
+		},
+		{
+			"name": "flag",
+			"x": 14,
+			"y": 10,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 17,
+			"y": 10,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 5,
+			"y": 9,
+			"dir": 0
+		},
+		{
+			"name": "grass",
+			"x": 6,
+			"y": 9,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 17,
+			"y": 9,
+			"dir": 0
+		},
+		{
+			"name": "text_grass",
+			"x": 23,
+			"y": 9,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 5,
+			"y": 8,
+			"dir": 0
+		},
+		{
+			"name": "grass",
+			"x": 14,
+			"y": 8,
+			"dir": 0
+		},
+		{
+			"name": "grass",
+			"x": 16,
+			"y": 8,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 17,
+			"y": 8,
+			"dir": 0
+		},
+		{
+			"name": "text_is",
+			"x": 23,
+			"y": 8,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 5,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "baba",
+			"x": 8,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "grass",
+			"x": 12,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "text_flag",
+			"x": 13,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "text_win",
+			"x": 15,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 17,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "text_stop",
+			"x": 23,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 5,
+			"y": 6,
+			"dir": 0
+		},
+		{
+			"name": "grass",
+			"x": 14,
+			"y": 6,
+			"dir": 0
+		},
+		{
+			"name": "grass",
+			"x": 15,
+			"y": 6,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 17,
+			"y": 6,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 5,
+			"y": 5,
+			"dir": 0
+		},
+		{
+			"name": "grass",
+			"x": 13,
+			"y": 5,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 17,
+			"y": 5,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 5,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 6,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 7,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 8,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 9,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 10,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 11,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 12,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 13,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 14,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 15,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 16,
+			"y": 4,
+			"dir": 0
+		},
+		{
+			"name": "wall",
+			"x": 17,
+			"y": 4,
+			"dir": 0
+		}
+	]
+}

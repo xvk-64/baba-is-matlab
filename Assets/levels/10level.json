@@ -1,0 +1,240 @@
+{
+	"width": 24,
+	"height": 18,
+	"units": [
+		{
+			"name": "text_you",
+			"x": 12,
+			"y": 3,
+			"dir": 0
+		},
+		{
+			"name": "text_c",
+			"x": 4,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_o",
+			"x": 5,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_n",
+			"x": 6,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_g",
+			"x": 7,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_r",
+			"x": 8,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_a",
+			"x": 9,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_t",
+			"x": 10,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_u",
+			"x": 11,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_l",
+			"x": 12,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_a",
+			"x": 13,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_t",
+			"x": 14,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_i",
+			"x": 15,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_o",
+			"x": 16,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_n",
+			"x": 17,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_s",
+			"x": 18,
+			"y": 15,
+			"dir": 0
+		},
+		{
+			"name": "text_level",
+			"x": 10,
+			"y": 13,
+			"dir": 0
+		},
+		{
+			"name": "text_is",
+			"x": 11,
+			"y": 13,
+			"dir": 0
+		},
+		{
+			"name": "text_end",
+			"x": 12,
+			"y": 13,
+			"dir": 0
+		},
+		{
+			"name": "text_fofo",
+			"x": 6,
+			"y": 11,
+			"dir": 0
+		},
+		{
+			"name": "fofo",
+			"x": 8,
+			"y": 11,
+			"dir": 0
+		},
+		{
+			"name": "text_keke",
+			"x": 5,
+			"y": 9,
+			"dir": 0
+		},
+		{
+			"name": "keke",
+			"x": 7,
+			"y": 9,
+			"dir": 0
+		},
+		{
+			"name": "text_me",
+			"x": 6,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "me",
+			"x": 8,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "text_it",
+			"x": 16,
+			"y": 11,
+			"dir": 2
+		},
+		{
+			"name": "it",
+			"x": 14,
+			"y": 11,
+			"dir": 2
+		},
+		{
+			"name": "jiji",
+			"x": 15,
+			"y": 9,
+			"dir": 2
+		},
+		{
+			"name": "text_jiji",
+			"x": 17,
+			"y": 9,
+			"dir": 0
+		},
+		{
+			"name": "worm",
+			"x": 14,
+			"y": 7,
+			"dir": 2
+		},
+		{
+			"name": "text_worm",
+			"x": 16,
+			"y": 7,
+			"dir": 0
+		},
+		{
+			"name": "cake",
+			"x": 11,
+			"y": 9,
+			"dir": 0
+		},
+		{
+			"name": "baba",
+			"x": 11,
+			"y": 6,
+			"dir": 0
+		},
+		{
+			"name": "text_baba",
+			"x": 10,
+			"y": 3,
+			"dir": 0
+		},
+		{
+			"name": "text_is",
+			"x": 11,
+			"y": 3,
+			"dir": 0
+		},
+		{
+			"name": "text_you",
+			"x": 12,
+			"y": 3,
+			"dir": 0
+		},
+		{
+			"name": "text_cake",
+			"x": 10,
+			"y": 1,
+			"dir": 0
+		},
+		{
+			"name": "text_is",
+			"x": 11,
+			"y": 1,
+			"dir": 0
+		},
+		{
+			"name": "text_party",
+			"x": 12,
+			"y": 1,
+			"dir": 0
+		}
+	]
+}

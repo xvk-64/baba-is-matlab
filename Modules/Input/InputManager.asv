@@ -1,0 +1,73 @@
+classdef InputManager < handle
+    properties
+        lastInputUpdate
+        currentInputs
+    end
+
+    properties (Constant)
+        InputInterval = 0.175
+    end
+
+    events
+        NewInput
+    end
+    
+    methods
+        function this = InputManager()
+            this.direction = Direction.Unset;
+            this.lastInputUpdate = tic;
+
+            addlistener(Game.input, "KeyPress", @this.OnKeyPress);
+            addlistener(Game.input, "KeyRelease", @this.OnKeyRelease);
+
+            currentInputs = logical(5, 1);
+        end
+        
+        function OnKeyPress(this, ~, data)
+            newInput = Direction.empty;
+
+            newInput = this.KeyToDir(data.Key);
+
+            if (isempty(newInput))
+                return;
+            end
+
+            if (~this.currentInputs(newInput + 2))
+                this.currentInputs(newInput + 2) = true;
+                this.TrySend(newInput);
+            end
+        end
+        
+        function OnKeyRelease(this, ~, data)
+            this.currentInputs(this.KeyToDir(data.Key) + 2) = false;
+        end
+
+        function dir = KeyToDir(this, key)
+            switch (key)
+                case {"d", "rightarrow"}
+                    dir = Direction.Right;
+                case {"s", "downarrow"}
+                    dir = Direction.Down;
+                case {"a", "leftarrow"}
+                    dir = Direction.Left;
+                case {"w", "uparrow"}
+                    dir = Direction.Up;
+                case "space"
+                    dir = Direction.Unset;
+            end
+        end
+
+        function Update(this)
+            activeInput = find(this.currentInputs)
+        end
+
+        function TrySend(this, direction)
+            if ((toc(this.lastInputUpdate) > InputManager.InputInterval))
+                notify(this, "NewInput", InputData(direction));
+
+                this.lastInputUpdate = tic;
+            end
+        end
+    end
+end
+
