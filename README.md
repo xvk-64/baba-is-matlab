@@ -12,6 +12,7 @@ An implementation of Baba Is You in MATLAB.
 ## How to run
 ### Prerequisites:
 - Recent version of MATLAB
+- [Baba is You](https://hempuli.com/baba)
 
 ### Preparing to run
 1. Before opening in MATLAB, navigate to the `Assets` folder and run `python generate_atlas.py <Path to Baba Is You Data folder>` to generate the sprite atlas. (You need to have the game installed)
